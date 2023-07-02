@@ -1,0 +1,4 @@
+export const SET_MODAL_STATE = "SET_MODAL_STATE";
+export const SET_CONTACT_DATA = "SET_CONTACT_DATA";
+export const SET_TITLE = "SET_TITLE";
+export const SET_USER_DETAILS = "SET_USER_DETAILS";
